@@ -1,0 +1,15 @@
+#slider{
+    position:relative;
+    height:200px;
+    width:700px;
+    margin:auto;
+}
+
+#slider ul li{
+    position:absolute;
+    top:0;
+    left:0;
+}
+.no-bullet{
+	list-style:none;
+}
